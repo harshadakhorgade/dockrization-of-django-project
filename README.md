@@ -1,7 +1,7 @@
-Here's a README file written in Markdown format:  
-
-```markdown
+  
 # Deploying a Django Project on AWS EC2 with Docker
+```markdown
+
 
 This guide will walk you through setting up an AWS EC2 instance, installing Docker, Dockerizing your Django project, and deploying it on a public IP.
 
